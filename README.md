@@ -25,4 +25,4 @@ Los ejemplos con los cuales se realizaron las pruebas los puede consutlar en el 
 ___
 ## PRUEBAS
 Para visualizar el archivo de pruebas de click en el siguiente enlace, el encontrara la manera para poder 
-ejecutar cada instruccion: [TEST](https://github.com/jfpazto/Cnyt-1/blob/master/Version2.py)
+ejecutar cada instruccion: [TEST](https://github.com/jfpazto/Cnyt-1/blob/master/test_Version2.py)
